@@ -27,5 +27,5 @@ rocket_code = 0x1F680
 rocket = chr(rocket_code)
 print(rocket)
 
-#prueba 22222 3333
+#prueba 22222 3333 44444 3i3uu3
 
